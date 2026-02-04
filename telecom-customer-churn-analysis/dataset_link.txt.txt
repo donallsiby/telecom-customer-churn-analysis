@@ -1,0 +1,8 @@
+Dataset: Telco Customer Churn
+
+Source:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+Note:
+The dataset is not uploaded to this repository due to size limitations.
+Please download it directly from Kaggle using the link above.
