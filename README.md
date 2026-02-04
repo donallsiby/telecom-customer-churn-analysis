@@ -38,7 +38,7 @@ The analysis was performed using Python with a focus on Exploratory Data Analysi
 ## 📷 Sample Visualizations
 
 ### Churn Distribution
-![Churn](telecom-customer-churn-analysis/images)
+![Churn](telecom-customer-churn-analysis/images/churn_distribution.png)
 
 ### Correlation Heatmap
 ![Heatmap](images/correlation_heatmap.png)
